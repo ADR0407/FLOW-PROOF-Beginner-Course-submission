@@ -2,8 +2,10 @@
 # Project Title
 creating the contract using stuct by using cadance lagauage
 
-Description
-An in-depth paragraph about your project and overview of use.
+# Description
+In this project i am going make contarct which having student details such as firstname,lastname,rollno,heightand marks.
+in project i am going to use stuct to store variable information student and will use dictinaroy to link student information with rollno.
+from metacrafter of Flow course i am learing cadence , I refered the module videos to learn cadence and creted a contract. lerning cadance 
 
 Getting Started
 Installing
