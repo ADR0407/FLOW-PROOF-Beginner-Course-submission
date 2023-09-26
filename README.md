@@ -11,9 +11,9 @@ From metacrafter of Flow course i am learing cadence , I refered the module vide
 # Executing
 It is esay to do. Just open flow.playground and start to code.
 
-In this we have to create new contract in the as i used Student and write code into it.after writing code of contract deploye contract at a address.
+In this we have to create new contract , as i used Student . write your contarct code into it. After writing code of contract deploye contract at a address.
 
-Now,write the transaction code where we are going to call function addinfo to add new information , after writing of  code you will  see a dialouge box which will contain the variable you initiallized , and give input in box , and execute it.
+Now, write the transaction code , where we are going to call function addinfo() to add new information , after writing of  code you will  see a dialouge box which will contain the variable you initiallized , and give input in box , and execute it.
 
 Now, write the script code to view the data or information of specific rollno.
 
