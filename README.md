@@ -1,6 +1,6 @@
 # FLOW-PROOF-Beginner-Course-submission
-Project Title
-Simple overview of use/purpose.
+# Project Title
+creating the contract using stuct by using cadance lagauage
 
 Description
 An in-depth paragraph about your project and overview of use.
